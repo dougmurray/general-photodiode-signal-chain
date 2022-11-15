@@ -1,0 +1,3 @@
+# Notes
+
+https://www.analog.com/en/technical-articles/transimpedance-amplifier-noise-considerations.html
